@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Week 4 Project
 
-Contains R code, codebook, and tidy data text file for the peer graded assignment.
+Contains R code, codebook, and the FinalTidyData text file for the peer graded assignment.
 
 ## Files:
 CodeBook.md describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
