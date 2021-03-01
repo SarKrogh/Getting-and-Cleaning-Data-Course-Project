@@ -2,7 +2,7 @@
 
 Human Activity Recognition Using Smartphones
 
-## Files
+# Files
 
 CodeBook.md: a code book that describes the variables, the data, and any transformations to clean up the data
 
